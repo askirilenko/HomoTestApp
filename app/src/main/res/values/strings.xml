@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Атлас Хомячков</string>
+    <string name="warning">Не удалось получить данные!</string>
+    <string name="developer_name">Антон Кириленко</string>
+    <string name="developer_description">Это не хомяк, а автор приложения. \n
+                                         \n email: askirilenko85@gmail.com \n
+                                         \n Viber/WhatsApp/Telegram +79878444455</string>
+    <string name="developer_image">https://lh3.googleusercontent.com/-XWykMI6nY48/XcAeIlDvrXI/AAAAAAAAABU/ilrwPHHqp748Wa83pIOQBMcFLn-u9GiEgCEwYBhgLKtQDABHVOhyZ62u5bbTHdS0RGF1rLQRA_Y0BXaRq2F2OEtEOidVAjQiKFCF5xmcitNS3-mk1Rr5T0S54x054B4Nfpqf4jjPpaNZoRqhH-TjgKA58Ig0qJPZEWCGr37VaggENN8JHPOFIFkTlEDZwVWUCOLQ-uExvmKkBeDMDjp02nrS31_GbK4SFx_CZM7EjRKQ7ap1orbpdcuzdGiN2OkmVjr12dJghR1Z4AsXw0CxIGLeNpTCEroNHSIP4LUjeaCV_HmONC546rRNfdKZF4exDQp7rHSaoKhGA63WGTENX4nYQjuo81I2fEOx_ANXJJ70Y7Z5DAkR2nQ57GKnCdlv01RL1XinwVeFfflP96-hGZk2fkqc6V2KspfOpynSsNN9xp32T5U1gNfA2qC1L0XqTk61Sj_bgNIc3ttg6IzRMBslUl21rsedjeHr7SqUAttmWLwiR_c87MQsAYKXRgFB7ojcktRvhVh0l8ZqUQEWbjwem1pkeOCGr29bxAwiZ5ym3iI0e_aFWQJ9QgWr2I0JZqKq1hMb6C6LjKlEUw6QcreoZiSn4HXdSv44GGy1Xdl-2mbZE0X5XQLGknbeMG_-TOVW-ylLa4beQcrsu3bGdpCAdACWeMK6f4IoG/w140-h140-p/706A9962.jpg</string>
+</resources>
